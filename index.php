@@ -17,9 +17,8 @@
   <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui">
 </head>
 <body>
-  <img src="https://www.mywikis.com/assets/mywikis.png" width="250" height="65" /> <h3>MyWikis</h3>
-  <hr />
   <div class="container">
+  <img src="https://www.mywikis.com/assets/mywikis.png" width="250" height="65" />
     <div class="heading">
       <h1 class="title">2Squared</h1>
       <div class="scores-container">
