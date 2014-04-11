@@ -28,7 +28,7 @@
 
     <div class="above-game">
       <p class="game-intro">Mesh the same-numbered tiles and get to 128!</p>
-      <a class="restart-button">Begin a new name</a>
+      <a class="restart-button">Begin a new game</a>
     </div>
 
     <div class="game-container">
