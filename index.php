@@ -19,6 +19,7 @@
 <body>
   <div class="container">
   <img src="https://www.mywikis.com/assets/mywikis.png" width="250" height="65" /> <h3>MyWikis</h3>
+  <hr />
     <div class="heading">
       <h1 class="title">2Squared</h1>
       <div class="scores-container">
@@ -76,7 +77,6 @@
     <p class="game-explanation">
       <strong class="important">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same number touch, they <strong>merge into one!</strong>
     </p>
-    <hr />
     <hr />
     <p>
     <s>Based</s> Stolen/"forked" off of 2048, created by <a href="http://gabrielecirulli.com" target="_blank">Gabriele Cirulli.</a> Which is based on <a href="https://itunes.apple.com/us/app/1024!/id823499224" target="_blank">1024 by Veewo Studio</a> and conceptually similar to <a href="http://asherv.com/threes/" target="_blank">Threes by Asher Vollmer.</a> Where the #$@% do intellectual property laws come in, I mean seriously!
