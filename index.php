@@ -18,6 +18,7 @@
 </head>
 <body>
   <div class="container">
+  <img src="https://www.mywikis.com/assets/mywikis.png" width="250" height="65" /> <h3>MyWikis</h3>
     <div class="heading">
       <h1 class="title">2Squared</h1>
       <div class="scores-container">
